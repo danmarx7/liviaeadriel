@@ -669,7 +669,7 @@
 	 
 	// 06.2 Countdown
 	//================================================================================
-	var theday = new Date(2023, 12, 16);	
+	var theday = new Date(2023, 11, 16);	
 	$('#countdown').countdown({until: theday, format: 'WDHMS'});
 	
 		 
